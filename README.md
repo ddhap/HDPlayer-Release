@@ -10,8 +10,9 @@ HDPlayer is a player based on web video connection. The software interface is im
 ## Features
 The released version contains the following features：
 
-- windows platform test version
+- Platform: windows 7 or above, 32 or 64bit
 - CMS source play
+- IPTV play
 
 ## Screenshots
 <img src="./doc/screenshots/screenshot_cms_home_light.png" width="45%" /> <img src="./doc/screenshots/screenshot_cms_home_dark.png" width="45%" />

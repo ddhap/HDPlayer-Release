@@ -1,0 +1,8 @@
+{
+    "source": [ 
+        { "name": "zxzj|vod", "type": 0, "api": "cms://zxzj"},
+        { "name": "4k-av|vod", "type": 0, "api": "cms://4k-av"},
+        { "name": "hdmoli|vod", "type": 0, "api": "cms://hdmoli"},
+        { "name": "ddys|vod", "type": 0, "api": "cms://ddys"}
+    ]
+}
